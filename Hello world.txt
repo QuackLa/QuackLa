@@ -1,1 +1,2 @@
-Privet
+print ('Privet');
+print ('Hello my dier friend')
